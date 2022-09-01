@@ -1,7 +1,6 @@
 {
   "name": "ajs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -39,11 +38,20 @@
     "ts-jest": "^24.2.0",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.4",
-    "webpack": "^4.41.4",
+    "webpack": "^4.19.1",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
     "core-js": "^3.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigrov/ajs-typescript3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pigrov/ajs-typescript3/issues"
+  },
+  "homepage": "https://github.com/pigrov/ajs-typescript3#readme",
+  "description": ""
 }
